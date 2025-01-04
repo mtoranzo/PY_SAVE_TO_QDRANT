@@ -1,0 +1,8 @@
+qdrant-client
+transformers
+torch
+numpy
+nomic
+torchvision
+Pillow
+tqdm
