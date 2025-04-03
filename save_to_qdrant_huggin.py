@@ -8,7 +8,7 @@ import torch
 
 # Configuración de Qdrant
 QDRANT_URL = "http://localhost:6333"  # Cambia esto si tu Qdrant está en otro host
-QDRANT_API_KEY = "yek62SYS"  # Reemplaza con tu clave API
+QDRANT_API_KEY = "KEY"  # Reemplaza con tu clave API
 COLLECTION_NAME = "md_files_v3"
 
 # Configuración del modelo de embeddings (ejemplo con Hugging Face)
